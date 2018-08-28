@@ -1,0 +1,13 @@
+1 Answer: 
+Step 1: Opened the “Sales_data.xml” file and saved it as “Sales_data.csv’
+
+Step 2: Select all the rows which have “Attractiveness<6” & made background color red by fill colors option & reduced the font size to 8 and font type to Italic from the font tab on the ribbon.
+
+Step 3: Select the rows were “Attractiveness<6” to group, Select the Data tab on the Ribbon, then click the Group command, Clicking the Group command, the selected rows or columns will be grouped. And the right click and hide rows.
+
+Step 4: Insert a column next to the Attractiveness column and write the formula as ="C"&A2, and apply the formula for all the columns. Now remove the old column or cut paste the new column in the place of the old column
+
+Step 5: Select the entire column and Change the format to “Text” from the number tab on the ribbon.
+
+
+
